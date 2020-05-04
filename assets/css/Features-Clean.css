@@ -109,3 +109,16 @@ a:hover {
   color: #68d2ff;
 }
 
+@media (min-width: 1200px) {
+  .section1 > row {
+    margin-top: -100px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col {
+    margin-top: -200px;
+  }
+}
+
+
